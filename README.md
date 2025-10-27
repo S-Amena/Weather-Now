@@ -1,21 +1,19 @@
-Here’s a polished and professional **README.md** for your **Next.js Weather App** — ready to upload to GitHub:
 
-````{"id":"59832","variant":"standard","title":"README for Next.js Weather App"}
-# 🌦️ Weather App
+🌦️ Weather App
 
 A **responsive weather application** built using **Next.js**, providing real-time weather information for any location. This project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 ```
 
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 Make sure you have [Node.js](https://nodejs.org) installed, then run:
 ```bash
 npm install
@@ -29,7 +27,7 @@ pnpm install
 bun install
 ```
 
-### 3️⃣ Run the Development Server
+3️⃣ Run the Development Server
 Start the local development server:
 ```bash
 npm run dev
@@ -39,7 +37,7 @@ Once it starts, open [http://localhost:3000](http://localhost:3000) in your brow
 
 ---
 
-## 🌤️ Features
+ 🌤️ Features
 
 - 🌍 Get real-time weather details for any city or country  
 - 🌡️ Displays temperature, humidity, and weather conditions  
@@ -49,7 +47,7 @@ Once it starts, open [http://localhost:3000](http://localhost:3000) in your brow
 
 ---
 
-## 🧩 Project Structure
+🧩 Project Structure
 
 ```
 .
@@ -64,8 +62,7 @@ Once it starts, open [http://localhost:3000](http://localhost:3000) in your brow
 ```
 
 ---
-
-## 🧠 Learn More
+🧠 Learn More
 
 To learn more about Next.js:
 
@@ -74,7 +71,7 @@ To learn more about Next.js:
 
 ---
 
-## ☁️ Deployment
+☁️ Deployment
 
 The easiest way to deploy your Next.js app is via **[Vercel](https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app-readme)** (by the creators of Next.js).
 
@@ -85,7 +82,7 @@ To deploy:
 
 ---
 
-## 🛠️ Built With
+ 🛠️ Built With
 
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -94,13 +91,13 @@ To deploy:
 
 ---
 
-## 💬 Feedback
+ 💬 Feedback
 
 Found a bug or have suggestions? Feel free to open an issue or submit a pull request on GitHub!
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -108,5 +105,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ❤️ using **Next.js**
 ````
 
-Would you like me to add **your GitHub username** and a **live demo link (Vercel)** section too?
 
