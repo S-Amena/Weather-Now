@@ -1,7 +1,7 @@
 
-🌦️ Weather App
+🌦️ WeatherNow – Real-Time Weather Forecasts Made Simple
 
-A **responsive weather application** built using **Next.js**, providing real-time weather information for any location. This project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Stay informed with WeatherNow, a sleek and responsive web app built with Next.js and powered by the Open-Meteo API. Instantly access live temperature, humidity, and weather conditions for any city worldwide — all in one elegant, lightning-fast interface.
 
 ---
 
